@@ -4,4 +4,5 @@ Aplikasi ini untuk satu perusahaan yang mendukung 3 peran yaitu admin, leader, d
 email	: admin@admin
 pass	: 123
 
-User admin: cuma bisa ditaroh di tabel user ID = 1
+Note:
+User admin, hanya bisa ditaroh di tabel user, dengan ID = 1
